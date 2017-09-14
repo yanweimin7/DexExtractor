@@ -17,5 +17,6 @@ adb  install  安装加固后的apk
   adb  pull /sdcard/classes_xxx.dex 拖出
 
 文件base64编码了，解码odex，java -jar Decoder.jar dex目录
-所有的odex(梆梆加固)
+所有的odex(梆梆加固)  ,  **再使用odex转dex工具转成dex**
 爱加密出来的是dex
+
